@@ -4,9 +4,9 @@ The public website for Kikamatic games, served by GitHub Pages.
 
 | Page | Address |
 |---|---|
-| Home | https://daverh.github.io/kikamatic/ |
-| Crystal Quest | https://daverh.github.io/kikamatic/crystal-quest/ |
-| Crystal Quest privacy policy | https://daverh.github.io/kikamatic/crystal-quest/privacy-policy.html |
+| Home | https://kikamatic.com/ |
+| Crystal Quest | https://kikamatic.com/crystal-quest/ |
+| Crystal Quest privacy policy | https://kikamatic.com/crystal-quest/privacy-policy.html |
 
 Plain HTML and CSS, no build step. Edit a file, push to `main`, and GitHub Pages updates in a minute or two.
 

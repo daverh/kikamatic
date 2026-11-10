@@ -6,10 +6,12 @@ The public website for Kikamatic games, served by GitHub Pages.
 |---|---|
 | Home | https://kikamatic.com/ |
 | Crystal Quest | https://kikamatic.com/crystal-quest/ |
-| Crystal Quest privacy policy | https://kikamatic.com/crystal-quest/privacy-policy.html |
+| Privacy policy (all games) | https://kikamatic.com/privacy-policy.html |
 
 Plain HTML and CSS, no build step. Edit a file, push to `main`, and GitHub Pages updates in a minute or two.
 
-The privacy policy text comes from `store/policies/privacy-policy.md` in the Crystal Quest repo. If one changes, change the other and update the effective date.
+`privacy-policy.html` covers every Kikamatic game, with a section per game under "Our games". When a game is added or changes what it collects (ads, internet, permissions), update its section **before** that version is released, and change the effective date.
+
+`privacy-policy.htm` and `crystal-quest/privacy-policy.html` just redirect to it.
 
 The Fredoka font is under the SIL Open Font License (`fonts/OFL.txt`).
